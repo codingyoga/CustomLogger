@@ -1,0 +1,10 @@
+2019-11-30 20:50:30,380 - /Users/manasamb/PycharmProjects/LoggingUpwork/example_logging.py - ERROR - this is an error
+2019-11-30 20:50:30,380 - /Users/manasamb/PycharmProjects/LoggingUpwork/example_logging.py - INFO - this is info
+2019-11-30 20:50:30,380 - /Users/manasamb/PycharmProjects/LoggingUpwork/example_logging.py - CRITICAL - this is critical
+2019-11-30 20:50:30,380 - /Users/manasamb/PycharmProjects/LoggingUpwork/example_logging.py - WARNING - this is warn
+2019-11-30 20:50:30,380 - /Users/manasamb/PycharmProjects/LoggingUpwork/example_logging.py - INFO - a is5 b is0
+2019-11-30 20:50:30,380 - /Users/manasamb/PycharmProjects/LoggingUpwork/example_logging.py - ERROR - Exception occurred 
+Traceback (most recent call last):
+  File "/Users/manasamb/PycharmProjects/LoggingUpwork/example_logging.py", line 25, in <module>
+    c = a / b
+ZeroDivisionError: division by zero
