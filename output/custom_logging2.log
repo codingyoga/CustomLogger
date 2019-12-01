@@ -1,0 +1,3 @@
+2019-11-30 19:47:40,011 - /Users/manasamb/PycharmProjects/LoggingUpwork/example_logging2.py - ERROR - {'datasetname': 'db_name', 'columnid': '', 'datasetid': '', 'status': 'status', 'errormsg': 'this data is present'}
+2019-12-01 15:44:36,865 - /Users/manasamb/PycharmProjects/LoggingUpwork/example_logging2.py - ERROR - {'datasetname': 'db_name', 'columnid': '', 'datasetid': '', 'status': 'status', 'errormsg': 'this data is present'}
+2019-12-01 15:44:46,009 - /Users/manasamb/PycharmProjects/LoggingUpwork/example_logging2.py - ERROR - {'datasetname': 'db_name', 'columnid': '', 'datasetid': '', 'status': 'status', 'errormsg': 'this data is present'}
